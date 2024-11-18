@@ -15,4 +15,4 @@ A simple C++ command-line application for calculating medicine doses based on us
 ## Running the App
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/dosecalculator-app.git
+   git clone https://github.com/sm-28601/DoseCalculatorApp.git
